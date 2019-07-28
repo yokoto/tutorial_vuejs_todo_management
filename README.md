@@ -2,6 +2,8 @@
 
 > A Vue.js project
 
+https://yokoto.github.io/tutorial_vuejs_todo_management/
+
 ## Build Setup
 
 ``` bash
